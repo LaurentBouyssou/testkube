@@ -1,0 +1,6 @@
+version: '3'
+services:
+  testkube:
+    build: .
+    ports: 
+        - 8100:8085

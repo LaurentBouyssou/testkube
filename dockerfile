@@ -1,4 +1,5 @@
 # docker build -t testkube . 
+# docker tag 57f067dcfce2 laurentbouyssou/testkube:V1.0.0
 # 8095 outside
 # docker run -it -p 8095:8085 testkube 
 FROM node:latest
