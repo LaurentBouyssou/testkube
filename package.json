@@ -1,0 +1,19 @@
+{
+  "name": "testkube",
+  "version": "1.0.0",
+  "description": "test node pour docker/kubernetes",
+  "main": "main.js",
+  "scripts": {
+    "test": "test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaurentBouyssou/testkube.git"
+  },
+  "author": "lolo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaurentBouyssou/testkube/issues"
+  },
+  "homepage": "https://github.com/LaurentBouyssou/testkube#readme"
+}
