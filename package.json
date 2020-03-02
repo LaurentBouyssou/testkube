@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LaurentBouyssou/testkube/issues"
   },
-  "homepage": "https://github.com/LaurentBouyssou/testkube#readme"
+  "homepage": "https://github.com/LaurentBouyssou/testkube#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
 }
